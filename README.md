@@ -25,8 +25,8 @@ Do not commit unpublished trial files to a public fork of this repository.
 There are three plotting positions and three estimators to arrive at your LTE values.
 
 Plotting positions 
--halfway ranks
--expected ranks
+- halfway ranks
+- expected ranks
 - min-to-max ranks
 
 Estimators
